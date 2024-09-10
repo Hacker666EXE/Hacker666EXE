@@ -1,4 +1,4 @@
-## Hi there 👋
+## ![Principais idiomas do zBLACKHAT](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker666EXE&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **Hacker666EXE/Hacker666EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
