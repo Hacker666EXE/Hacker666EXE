@@ -25,6 +25,3 @@
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker666EXE&layout=compact&langs_count=10&theme=dark)
-
-## 📫 Let's Connect
-- 💼 Telegram: [zBL4CKHATOFICIAL](https://t.me/zBL4CKHATOFICIAL)
